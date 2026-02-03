@@ -11,6 +11,21 @@ Bu bölüm, direksiyon seti projesinin 12V DC besleme ünitesine ait teorik tasa
 * **Dönüşüm:** 220V AC → 12V DC (LM7812 ile regüleli).
 * **Kritik Bileşenler:** 24V Transformatör, 10.000 µF Filtre Kapasitörü.
 * **Güvenlik:** Ters akım koruması için D1 diyotu ve gürültü engelleme için dekuplaj kondansatörleri eklenmiştir.
+
+## 🚀 **3D Model Görüntüsü**
+
 <p align="center">
   <img width="400" alt="image" src="https://github.com/user-attachments/assets/93eab855-c8ae-4a89-a4d3-68374185f582" />
+</p>
+
+## 📐 **PCB Layout Çizimi**
+
+<p align="center">
+  <img width="1210" height="503" alt="image" src="https://github.com/user-attachments/assets/2c3106ea-258d-4419-93c7-805528e23ffd" />
+</p>
+
+## 📋 **Devre Şeması (Schematic)**
+
+<p align="center">
+  <img width="1423" height="242" alt="image" src="https://github.com/user-attachments/assets/fee57683-25f4-479e-9218-8c21e56b44ac" />
 </p>
